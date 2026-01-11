@@ -2,7 +2,7 @@
 
 Am agentic type (partially agentic) self-correcting workflow that leverages integrated long-short term memory for deep context retention and the Model Context Protocol (MCP) to orchestrate specialized AWS Lambda tools for high-precision paper search and data extraction.
 
-![Architecture Overview](./assets/blog1.png)
+![Architecture Overview](./frontend-react-ts/src/assets/blog1.png) 
 
 ## 🌟 Key Features
 
@@ -62,7 +62,7 @@ Dual-layered memory powered by AWS Bedrock AgentCore:
 
 ### 3. MCP-Powered Lambda Tools
 
-![MCP Architecture](./assets/blog2.png)
+![MCP Architecture](./frontend-react-ts/src/assets/blog1.png)
 
 Using the Model Context Protocol with `MultiServerMCPClient`:
 
