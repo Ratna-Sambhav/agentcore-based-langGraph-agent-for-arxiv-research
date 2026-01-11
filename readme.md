@@ -62,8 +62,6 @@ Dual-layered memory powered by AWS Bedrock AgentCore:
 
 ### 3. MCP-Powered Lambda Tools
 
-![MCP Architecture](./frontend-react-ts/src/assets/blog1.png)
-
 Using the Model Context Protocol with `MultiServerMCPClient`:
 
 #### ArXiv Paper Finder
@@ -77,6 +75,8 @@ Using the Model Context Protocol with `MultiServerMCPClient`:
 - Performs granular analysis without token limit issues
 
 ## 🚀 Deployment
+
+![Architecture](./frontend-react-ts/src/assets/blog2.png)
 
 ### Prerequisites
 
