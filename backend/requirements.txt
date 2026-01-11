@@ -1,0 +1,6 @@
+python-dotenv
+aioboto3
+cryptography
+uvicorn
+fastapi
+PyJWT
