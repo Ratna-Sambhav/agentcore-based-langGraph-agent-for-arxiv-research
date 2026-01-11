@@ -76,7 +76,7 @@ Using the Model Context Protocol with `MultiServerMCPClient`:
 
 ## 🚀 Deployment
 
-![Architecture](./frontend-react-ts/src/assets/blog2.png)
+![Architecture](./frontend-react-ts/src/assets/blog2.jpg)
 
 ### Prerequisites
 
